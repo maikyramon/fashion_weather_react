@@ -1,0 +1,20 @@
+export default  {
+    fetching_weather        : 'Fetching the weather',
+    chuva                   : 'Rain',
+    ensolarado              : 'Clear',
+    tempestade              : 'Storn',
+    nublado                 : 'Cloudy',
+    neve                    : 'Snow',
+    garoando                : 'Drizzle',
+    garoando_forte          : 'Haze',
+    nevoa                   : 'Mist',
+    chuva_subtitle          : 'Thicker clothes. Remember the umbrella!',    
+    ensolarado_subtitle     : 'Lighter clothes and suscreen!',    
+    tempestade_subtitle     : 'Don\'t even get out' ,
+    nublado_subtitle        : 'Maybe grab an umbrella',
+    neve_subtitle           : 'Put up your coats! Brrr! ',
+    garoando_subtitle       : 'Rain clothes',
+    garoando_forte_subtitle : 'Also Rain clothes',
+    nevoa_subtitle          : 'Don\'t roam in forests!',
+    sobre                   : 'ABOUT'
+}
